@@ -1,0 +1,7 @@
+controllers\CORSFilter.class
+entity\Books.class
+controllers\ApplicationController.class
+conf\Routes.class
+entity\User.class
+controllers\ApplicationController$SimplePojo.class
+conf\Module.class
